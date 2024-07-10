@@ -72,9 +72,9 @@ Caso queira ver a página para envio de arquivos, a [figura](./Captura%20de%20te
 
 #### Como criar hyperlink para uma figura/arquivo
 
-Supondo que a figura esteja na mesma pasta (diretório) em que o arquivo que você está editando está, digite no editor de texto <pre>[texto ](caminho para figura)</pre>, por exemplo: <pre>[figura](./Captura%20de%20tela%20de%202024-07-10%2015-12-02.png)</pre>. Para saber o caminho para figura, em uma outra aba do navegador, entre no repositório e clique sobre a figura/arquivo que quer linkar, então copie o texto que está na barra de endereços dessa aba e cole na parte destinada ao caminho para a figura. Isto ajusta o caminho, substitui espaços em branco e caracteres acentuados para o link ser usado no texto.
+Supondo que a figura esteja na mesma pasta (diretório) em que o arquivo que você está editando está, digite no editor de texto <pre>[texto ](caminho para figura)</pre>, por exemplo: \[figura\]\(./Captura%20de%20tela%20de%202024-07-10%2015-12-02.png\). Para saber o caminho para figura, em uma outra aba do navegador, entre no repositório e clique sobre a figura/arquivo que quer linkar, então copie o texto que está na barra de endereços dessa aba e cole na parte destinada ao caminho para a figura. Isto ajusta o caminho, substitui espaços em branco e caracteres acentuados para o link ser usado no texto.
 
 #### Como mostrar uma figura
 
-Crie um link para a figura e coloque um ponto de exclamação antes do "abre colchete". Por exemplo: <pre>![](./Captura%20de%20tela%20de%202024-07-03%2014-00-22.png)</pre>
+Crie um link para a figura e coloque um ponto de exclamação antes do "abre colchete". Por exemplo: \!\[\]\(./Captura%20de%20tela%20de%202024-07-03%2014-00-22.png\)
 
