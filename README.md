@@ -54,12 +54,27 @@ Caso queira ver a janela do editor, a [figura](./Captura%20de%20tela%20de%202024
 
 Caso queira ver um exemplo do popup de commit, a [figura](./Captura%20de%20tela%20de%202024-07-03%2013-59-19.png) pode ajudar.
 
-
 Caso queira modificar um arquivo já existente, selecione o arquivo que deseja editar, clique no ícone de lápis (no canto superior direito do texto), o texto passa a aparece na janela do editor. Modifique o que quiser e clique em "commit changes".
 
+Caso queira criar um novo arquivo, na página que mostra o repositório, clique no botão "+" entre a caixa de pesquisa e o botão "Código" e selecione "criar novo arquivo". 
+
+Caso queira ver onde está o botão "+", a [figura](./Captura%20de%20tela%20de%202024-07-03%2014-00-22.png) pode ajudar
+
 #### Como enviar outros arquivos (por exemplo figuras e programas)
-#### Como criar hyperlink para uma figura
+
+Para enviar arquivos de seu computador para o repositório, na página que mostra o repositório, clique no botão "+" entre a caixa de pesquisa e o botão "Código" e selecione "enviar arquivo". 
+
+Caso queira ver onde está o botão "+", a [figura](./Captura%20de%20tela%20de%202024-07-03%2014-00-22.png) pode ajudar
+
+A página para envio de arquivos é aberta. Você pode arrastar ou selecionar arquivos. Depois de adicionar todos os arquivos que quiser, clique no botão "Commit changes".
+
+Caso queira ver a página para envio de arquivos, a [figura](./Captura%20de%20tela%20de%202024-07-10%2015-12-02.png) pode ajudar.
+
+#### Como criar hyperlink para uma figura/arquivo
+
+Supondo que a figura esteja na mesma pasta (diretório) em que o arquivo que você está editando está, digite no editor de texto <pre>[texto ](caminho para figura)</pre>, por exemplo: <pre>[figura](./Captura%20de%20tela%20de%202024-07-10%2015-12-02.png)</pre>. Para saber o caminho para figura, em uma outra aba do navegador, entre no repositório e clique sobre a figura/arquivo que quer linkar, então copie o texto que está na barra de endereços dessa aba e cole na parte destinada ao caminho para a figura. Isto ajusta o caminho, substitui espaços em branco e caracteres acentuados para o link ser usado no texto.
+
 #### Como mostrar uma figura
 
+Crie um link para a figura e coloque um ponto de exclamação antes do "abre colchete". Por exemplo: <pre>![](./Captura%20de%20tela%20de%202024-07-03%2014-00-22.png)</pre>
 
-![](./Captura%20de%20tela%20de%202024-07-03%2014-00-22.png)
